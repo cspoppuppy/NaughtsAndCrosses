@@ -1,5 +1,7 @@
 # Unbeatable Naughts & Crosses
 
+Play it [here](https://shacheng.co.uk/NaughtsAndCrosses/)
+
 Minimax is an AI algorithm used to decide the next best move in two player games like chess and go (zero-sum games). 
 Basically, it goes through all the possible moves between two players, and scores each simulated game result according to the end status. 
 If the AI player wins, it is given a positive score. If the opponent player wins, it is given a negative score. If it is a draw, it is given score 0. 
@@ -11,3 +13,4 @@ When it rolls up the scores to the current level, we can then choose the most op
 Illustration with a half way Noughts & Crosses game:
 
 ![HTML1](gametree.JPG)
+
